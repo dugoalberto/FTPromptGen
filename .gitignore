@@ -2,4 +2,7 @@
 .idea
 llamacppConfigurator.txt
 .DS_Store
+git branch -M main
+git remote add origin https://github.com/dugoalberto/FTPromptGen.git
+git push -u origin main
 __pycache__/
